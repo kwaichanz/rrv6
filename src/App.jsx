@@ -7,16 +7,7 @@ import "./styles.css"
 
 function App() {
   const location = useLocation()
-  // let element = useRoutes([
-  //   {
-  //     path: "/",
-  //     element: <NavLayout />
-  //   },
-  //   {
-  //     path: "*",
-  //     element: <NotFound />
-  //   },
-  // ])
+
   return (
     <>
       <nav>
